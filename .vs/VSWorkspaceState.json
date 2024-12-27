@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\home_demo_app.client",
+    "\\home_demo_app.client\\src",
+    "\\home_demo_app.client\\src\\app",
+    "\\home_demo_app.client\\src\\app\\admin",
+    "\\home_demo_app.client\\src\\models"
+  ],
+  "SelectedNode": "\\home_demo_app.client\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}
